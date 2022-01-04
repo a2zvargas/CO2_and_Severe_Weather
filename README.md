@@ -1,4 +1,4 @@
-# Carbon Emissions and Severe Weather: Is It Raining Cats and Dogs?
+# Carbon Emissions and Severe Weather
 
 
 ## *Presentation*
