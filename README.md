@@ -126,13 +126,12 @@ Comparison of U.S. Co2 emissions vs U.S severe weather events, and overall world
 - Worked on building GitHub Repository
 - Merged Files
 - Set-up Machine Learning (ML) Algorithms and Parameters
-- Provided many laughs and stories for team members
 - Contributed to ReadMe
 
 #### Shalmalee Soman
 - Found datasets
 - created a visualization through Tableau 
-- created a map whuch shows how population of a county relates to their carbon emissions.
+- created a map which shows how population of a county relates to their carbon emissions
 - contributed to ReadMe
 
 
@@ -148,7 +147,6 @@ Comparison of U.S. Co2 emissions vs U.S severe weather events, and overall world
 - Work with PGAdmin to connect data from database
 - Cleaned up and merged CSV files using Python and Pandas for Severe Weather and Co2 emission data
 - Contributed to ReadMe
-- Spiritual Guidance
 
   
 ### *Deliverable 2*
@@ -169,7 +167,6 @@ Comparison of U.S. Co2 emissions vs U.S severe weather events, and overall world
   
 #### Cindy McCracken
 - Updated ReadME file
-- Philosophical Juggernaut
 - Researched Machine Learning algorithms to determine best one(s) to be used
 - Created Google Slides
   
@@ -180,11 +177,9 @@ Comparison of U.S. Co2 emissions vs U.S severe weather events, and overall world
 - Researched Machine Learning algorithms to determine best one(s) to be used
 - Updated Machine Learning code to pull data from the database instead of CSV files
 
-
  ### *Deliverable 3*
   
  #### Scott Sweazy
- - Pogchamp
  - Updated Machine Learning Code
  - Cleaned up code for Data Preprocessing and Machine Learning 
  - Contributed to speaker notes on Google Slides
